@@ -31,13 +31,15 @@ Our solution shields the original naked income data from the chains, adding the 
 - **Employee Contract**: Handles operations related to verifying deposits and claiming salary.
 - **Privacy-Enhanced Contract**: Handles operations related to encrypting and decrypting salary amounts, and verifying Zero-Knowledge Proofs.
 
-![OmniX Architecture]()
+*OmniX Architecture Figure Here (TODO)*
+<!-- ![OmniX Architecture]() -->
 
 ## Workflow
 
 The workflow of the Privacy-Enhanced Contract includes setting up a PEC account, funding the account, making confidential transfers, and withdrawing funds.
 
-![OmniX Workflow]()
+*OmniX Workflow Figure Here (TODO)*
+<!-- ![OmniX Workflow]() -->
 
 ## Contact
 
